@@ -1,6 +1,6 @@
 #include "shell.h"
 /**
- * get_input - gets a line minus the newline
+ * _input - gets a line minus the newline
  * @info: parameter struct
  *
  * Return: bytes read

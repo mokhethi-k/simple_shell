@@ -4,7 +4,7 @@
  * find_path - finds the full path for a given command
  * @info: the info struct
  * @pathstr: the PATH string
- * @cmd: the command to find
+ * @command: the command to find
  * Return: full path of command otherwise NULL
  */
 char *find_path(info_t *info, char *pathstr, char *command)
