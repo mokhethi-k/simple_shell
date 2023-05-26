@@ -1,0 +1,1 @@
+This repo contains the tasks for the simple shell project
